@@ -1,0 +1,1 @@
+// random a number ranged from 10 to 70 (only integer)
